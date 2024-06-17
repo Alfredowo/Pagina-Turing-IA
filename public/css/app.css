@@ -1,0 +1,71 @@
+body {
+  background-color: lightblue;
+  color: #0D2734;
+}
+
+header {
+  background-color: azure
+}
+
+nav {
+  background-color: azure;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  /* Agregando sombreado en la parte inferior */
+}
+
+#about {
+  background-color: #004563;
+  color: azure
+}
+
+#products {
+  background-color: azure;
+  color: #0D2734;
+}
+
+#contact {
+  background-color: #004563;
+  color: azure;
+}
+
+#plans {
+  background-color: azure;
+  color: #0D2734;
+}
+
+.btn-primary {
+  background-color: #004563;
+  border-color: #004563;
+  color: #ACB4B9;
+}
+
+.btn-primary:hover {
+  background-color: #34BDCE;
+  border-color: #34BDCE;
+}
+
+.card {
+  background-color: #0D2734;
+  color: #ACB4B9;
+  border: 1px solid #ACB4B9;
+}
+
+.card-title {
+  color: #38B3CE;
+}
+
+.card-text,
+.card-footer {
+  color: #ACB4B9;
+}
+
+.plan-card .list-group-item {
+  background-color: #0D2734;
+  color: #D3D9DF;
+  border: none;
+}
+
+footer {
+  background-color: #0D2734;
+  color: #ACB4B9;
+}
